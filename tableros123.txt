@@ -1,0 +1,360 @@
+Tablero 3 x 3
+Camino Abierto:
+NO existe camino
+0 0 0 
+0 0 0 
+0 0 0 
+Camino Cerrado:
+NO existe camino
+0 0 0 
+0 0 0 
+0 0 0 
+Tiempo camino abierto: 0.0ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 4 x 4
+Camino Abierto:
+NO existe camino
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Camino Cerrado:
+NO existe camino
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Tiempo camino abierto: 0.0ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 5 x 5
+Camino Abierto:
+01 10 05 16 25 
+04 17 02 11 06 
+09 20 13 24 15 
+18 03 22 07 12 
+21 08 19 14 23 
+Camino Cerrado:
+NO existe camino
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+Tiempo camino abierto: 1.378901ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 6 x 6
+Camino Abierto:
+01 12 35 08 25 14 
+36 07 02 13 34 23 
+11 30 09 24 15 26 
+06 03 18 31 22 33 
+29 10 05 20 27 16 
+04 19 28 17 32 21 
+Camino Cerrado:
+37 18 11 08 31 20 
+10 07 02 19 12 29 
+17 36 09 30 21 32 
+06 03 24 15 28 13 
+35 16 05 26 33 22 
+04 25 34 23 14 27 
+Tiempo camino abierto: 1.634299ms
+Tiempo camino cerrado: 20.469ms
+
+Tablero 3 x 10
+Camino Abierto:
+01 04 07 16 13 28 11 18 21 24 
+08 15 02 05 10 17 26 23 30 19 
+03 06 09 14 27 12 29 20 25 22 
+Camino Cerrado:
+31 04 29 08 21 06 23 12 15 18 
+28 09 02 05 26 11 20 17 24 13 
+03 30 27 10 07 22 25 14 19 16 
+Tiempo camino abierto: 1.3191ms
+Tiempo camino cerrado: 5.723299ms
+
+Tablero 3 x 12
+Camino Abierto:
+01 04 07 10 13 16 19 22 25 28 31 34 
+08 11 02 05 20 23 14 17 32 35 26 29 
+03 06 09 12 15 18 21 24 27 30 33 36 
+Camino Cerrado:
+37 04 35 08 11 06 19 16 13 22 25 28 
+34 09 02 05 32 17 12 21 30 27 14 23 
+03 36 33 10 07 20 31 18 15 24 29 26 
+Tiempo camino abierto: 0.003ms
+Tiempo camino cerrado: 128.1887ms
+
+Tablero 5 x 6
+Camino Abierto:
+01 22 05 16 11 24 
+04 15 02 23 28 17 
+21 06 19 12 25 10 
+14 03 08 29 18 27 
+07 20 13 26 09 30 
+Camino Cerrado:
+31 10 05 22 25 16 
+04 21 02 17 06 23 
+11 30 09 24 15 26 
+20 03 28 13 18 07 
+29 12 19 08 27 14 
+Tiempo camino abierto: 8.3021ms
+Tiempo camino cerrado: 63.0385ms
+
+Tablero 3 x 4
+Camino Abierto:
+01 04 07 10 
+08 11 02 05 
+03 06 09 12 
+Camino Cerrado:
+NO existe camino
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Tiempo camino abierto: 0.0012ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 3 x 5
+Camino Abierto:
+NO existe camino
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+Camino Cerrado:
+NO existe camino
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+Tiempo camino abierto: 0.0ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 3 x 6
+Camino Abierto:
+NO existe camino
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Camino Cerrado:
+NO existe camino
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Tiempo camino abierto: 0.0ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 3 x 8
+Camino Abierto:
+01 04 07 10 13 16 19 22 
+08 11 02 05 20 23 14 17 
+03 06 09 12 15 18 21 24 
+Camino Cerrado:
+NO existe camino
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+Tiempo camino abierto: 0.0015ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 4 x 6
+Camino Abierto:
+01 14 05 22 11 24 
+04 17 02 13 08 21 
+15 06 19 10 23 12 
+18 03 16 07 20 09 
+Camino Cerrado:
+NO existe camino
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+0 0 0 0 0 0 
+Tiempo camino abierto: 0.178299ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 4 x 3
+Camino Abierto:
+01 08 03 
+04 11 06 
+07 02 09 
+10 05 12 
+Camino Cerrado:
+NO existe camino
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Tiempo camino abierto: 0.004399ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 5 x 3
+Camino Abierto:
+NO existe camino
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Camino Cerrado:
+NO existe camino
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Tiempo camino abierto: 0.0ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 6 x 3
+Camino Abierto:
+NO existe camino
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Camino Cerrado:
+NO existe camino
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Tiempo camino abierto: 0.0ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 8 x 3
+Camino Abierto:
+01 14 23 
+24 17 02 
+13 22 15 
+16 03 18 
+19 12 21 
+04 09 06 
+07 20 11 
+10 05 08 
+Camino Cerrado:
+NO existe camino
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Tiempo camino abierto: 0.333499ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 6 x 4
+Camino Abierto:
+01 04 13 24 
+14 23 02 05 
+03 12 15 22 
+16 19 06 09 
+11 08 21 18 
+20 17 10 07 
+Camino Cerrado:
+NO existe camino
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+0 0 0 0 
+Tiempo camino abierto: 4.06ms
+Tiempo camino cerrado: 0.0ms
+
+Tablero 6 x 5
+Camino Abierto:
+01 20 27 12 03 
+26 11 02 19 28 
+21 18 25 04 13 
+10 07 14 29 24 
+17 22 05 08 15 
+06 09 16 23 30 
+Camino Cerrado:
+31 22 13 10 03 
+14 05 02 23 12 
+21 30 11 04 09 
+06 15 26 19 24 
+29 20 17 08 27 
+16 07 28 25 18 
+Tiempo camino abierto: 661.443401ms
+Tiempo camino cerrado: 108.6945ms
+
+Tablero 10 x 3
+Camino Abierto:
+01 24 21 
+22 17 02 
+25 20 23 
+16 03 18 
+19 26 05 
+04 15 30 
+29 06 27 
+12 09 14 
+07 28 11 
+10 13 08 
+Camino Cerrado:
+31 26 29 
+28 17 02 
+25 30 27 
+16 03 18 
+19 24 05 
+04 15 20 
+21 06 23 
+12 09 14 
+07 22 11 
+10 13 08 
+Tiempo camino abierto: 0.2704ms
+Tiempo camino cerrado: 0.0074ms
+
+Tablero 12 x 3
+Camino Abierto:
+01 28 25 
+26 31 02 
+29 24 27 
+32 03 30 
+23 10 05 
+04 33 22 
+09 06 11 
+34 21 08 
+07 12 35 
+18 15 20 
+13 36 17 
+16 19 14 
+Camino Cerrado:
+37 32 35 
+34 25 02 
+31 36 33 
+26 03 24 
+23 30 05 
+04 27 22 
+29 06 11 
+10 21 28 
+07 12 09 
+18 15 20 
+13 08 17 
+16 19 14 
+Tiempo camino abierto: 1.3502ms
+Tiempo camino cerrado: 8.0658ms
+
+Tablero 5 x 5
+Camino Abierto:
+01 10 05 16 25 
+04 17 02 11 06 
+09 20 13 24 15 
+18 03 22 07 12 
+21 08 19 14 23 
+Camino Cerrado:
+NO existe camino
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+0 0 0 0 0 
+Tiempo camino abierto: 0.5537ms
+Tiempo camino cerrado: 0.0ms
+
